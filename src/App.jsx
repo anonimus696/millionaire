@@ -19,7 +19,7 @@ function App() {
   }
 
   const [username, setUsername] = useState(0)
-  const [questionNumber, setQuestionNumber] = useState(15)
+  const [questionNumber, setQuestionNumber] = useState(1)
   const [stop, setStop] = useState(false)
   const [earned, setEarned] = useState('Nihya :)')
   const data = [
