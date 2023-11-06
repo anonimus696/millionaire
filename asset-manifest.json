@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/millionaire/static/css/main.a1fe48ae.css",
+    "main.js": "/millionaire/static/js/main.f7495e5f.js",
+    "static/js/845.dc4d124d.chunk.js": "/millionaire/static/js/845.dc4d124d.chunk.js",
+    "static/media/src_sounds_wait.mp3": "/millionaire/static/media/src_sounds_wait.30e329da76ae665702f7.mp3",
+    "static/media/bg.jpg": "/millionaire/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/src_sounds_play.mp3": "/millionaire/static/media/src_sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/win.mp3": "/millionaire/static/media/win.b6acca1665e5054b1319.mp3",
+    "static/media/src_sounds_correct.mp3": "/millionaire/static/media/src_sounds_correct.160572d72c858155072e.mp3",
+    "static/media/src_sounds_wrong.mp3": "/millionaire/static/media/src_sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/millionaire/index.html",
+    "main.a1fe48ae.css.map": "/millionaire/static/css/main.a1fe48ae.css.map",
+    "main.f7495e5f.js.map": "/millionaire/static/js/main.f7495e5f.js.map",
+    "845.dc4d124d.chunk.js.map": "/millionaire/static/js/845.dc4d124d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1fe48ae.css",
+    "static/js/main.f7495e5f.js"
+  ]
+}
